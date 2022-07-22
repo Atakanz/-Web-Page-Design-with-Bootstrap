@@ -1,0 +1,89 @@
+body {
+    background-color: #E9ECEF;
+    
+}
+.buttons {
+    text-align: center;
+    position: relative;
+    width: 150px;
+
+}
+
+.jumbotron {
+    padding:0px; margin:0px;
+}
+
+.logo {
+    
+    padding-left: 25px;
+}
+
+.links {
+    text-decoration: none;
+    position: absolute;
+    bottom:0px;
+    left:0px;
+    text-align: center;
+}
+
+.links:hover {  
+box-shadow:  1px 1px 5px 1px rgba(246, 35, 3, 1), 1px 1px 1px 2px rgba(255, 255, 0, 0.8);
+font-size: large;
+}
+
+.indexp {
+text-align: center;
+margin-top:16px;
+padding:10px 20px;
+}
+
+.container .products{
+padding-left:150px;
+} 
+
+.productphoto{
+    height: 35%;
+    display: block;
+    margin:auto;
+    min-height: 3em;
+    display: table-cell;
+    
+}
+
+.products .card{
+width: 340px;
+height: 340px;
+}  
+
+.productp {
+text-transform:uppercase;
+line-height: 20px;
+position: absolute;
+bottom:50px;
+}
+
+.sepet {
+    position: absolute;
+    bottom: 10px;
+    left:125px;
+    display: block;
+    margin: auto;
+    width:100px;
+    text-align:center;
+    background-color:  white;
+    border-radius: 30px;
+    color: black;
+}
+
+.sepet:hover {
+    box-shadow:  1px 1px 5px 1px rgba(246, 35, 3, 1), 1px 1px 1px 2px rgba(255, 255, 0, 0.8);
+}
+
+
+
+
+
+
+
+
+
